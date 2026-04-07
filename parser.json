@@ -1,9 +1,9 @@
 {
+  "semver": false,
   "parser_version": "f6bf6e35eb0b95fbadea4bb39cb9709507fcb181",
   "location": "csv",
-  "lang": "csv",
+  "url": "https://github.com/tree-sitter-grammars/tree-sitter-csv",
   "generate": null,
   "generate_from_json": null,
-  "url": "https://github.com/tree-sitter-grammars/tree-sitter-csv",
-  "semver": false
+  "lang": "csv"
 }
